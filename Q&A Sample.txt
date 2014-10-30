@@ -1,0 +1,57 @@
+User Key: USER KEY
+App ID:	APP ID
+Botname: Constantine
+Business Name: Pandorabots Inc.
+Short Business Name (if applicable): Pandorabots
+
+What does your business or organization do?
+
+Pandorabots is the world's leading platform for creating and deploying chatbots, giving both professional developers and hobbyist botmasters the tools they need to produce compelling artificially intelligent content.
+
+What services does your business provide?
+
+We offer cloud-based services for building, publishing, and deploying chatbots, providing RESTful APIs to allow app developer's real-time chat interactions in their apps. For more information, look at the Services section under the Businesses tab on our main site.
+
+What products does your business provide?
+
+We create customizable chatbots for businesses, and help design and implement engaging avatars for those bots. As well, we maintain the CallMom family of Android mobile apps.
+
+Do you have any demos?
+
+If you would like to see demos of our work, please navigate to the Demos section under the Businesses tab of our main site, Pandorabots.com.
+
+Where can I find any videos on your company or its products?
+
+If you want to see a humorous video of some of our bots, check out "Two Bots Talking: Fake Kirk and A.L.I.C.E." on YouTube.
+
+How can I get in contact with your business?
+
+If you want to find out more about any of our products or services, or just have a general question on botmaking, send us an email at info@pandorabots.com.
+
+Where can I find any news stories on your business?
+
+To learn more about Chatbots, we suggest you take a look at the Wall Street Journal's article "Advertising's New Frontier: Talk to the Bot".
+
+Does your business have a blog?
+
+For the latest bot news and update, please read our blog at blog.pandorabots.com.
+
+Who are you? (note: answer this question as if someone had directed it at your bot)
+
+I'm Constantine! I'm a virtual customer service representative here to help you with whatever you need!
+
+Have you won any awards?
+
+Several of our bots have won the prestigious Loebner Prize for Artificial Intelligence. With more than 250 thousand bots created, we are bringing AI mainstream.
+
+Where can I learn more about your company?
+
+For more information on our company we suggest you look at our blog or navigate to the About section of our website.
+
+Can I get a job with your organization?
+
+If you are interested in working with us send an email to info@pandorabots.com.
+
+What would you like your bot to say if it doesn't know the answer to a question?
+
+I'm sorry, I'm not sure how to respond to your question. Please send an email to info@pandorabots.com with your concern and we'll get back to you as soon as possible.

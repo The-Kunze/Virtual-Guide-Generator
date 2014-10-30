@@ -1,0 +1,100 @@
+What services does your business provide?
+services
+^ services ^
+^ service ^
+
+What products does your business provide?
+products
+^ products ^
+^ product ^
+^ produce ^
+
+Do you have any demos?
+demos
+^ demos ^
+^ demo ^
+^ product ^ demo ^
+^ product ^ demos ^
+^ demos ^ products ^
+^ demo ^ products ^
+^ proof of concept ^
+
+Where can I find any videos on your company or its products?
+video
+^ film ^
+^ films ^
+^ videos ^
+^ video ^
+^ movie ^
+^ movies ^
+^ youtube ^
+
+How can I get in contact with your business?
+contact
+^ contact ^
+^ reach out ^
+^ reach ^
+^ speak ^
+^ talk ^
+^ email ^
+^ call ^
+^ phone ^
+^ get in touch ^
+
+Where can I find any news stories on your business?
+news
+^ publications ^
+^ reports ^
+^ news stories ^
+^ news ^
+^ media ^
+
+Does your business have a blog?
+blog
+^ blog posts ^
+^ blog entries ^
+^ blog ^
+^ updates ^
+^ update ^
+
+What does your business or organization do?
+function
+^ companyName ^
+
+Who are you? (note: answer this question as if someone had directed it at your bot)
+bot
+^ bot ^
+^ your name ^
+^ who are you ^
+^ what are you ^
+^ yourself ^
+
+Have you won any awards?
+awards
+^ awards ^
+^ award ^
+^ accolades ^
+^ honors ^
+
+Where can I learn more about your company?
+learnMore
+^ learn more ^
+^ more information ^
+^ learn about ^
+
+Can I get a job with your organization?
+careers
+^ job openings ^
+^ employment ^
+^ careers ^
+^ career ^
+^ hirings ^
+^ hiring ^
+^ jobs ^ 
+^ work for ^
+
+What would you like your bot to say if it doesn't know the answer to a question?
+UDC 
+*
+
+END
