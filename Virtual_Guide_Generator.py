@@ -159,7 +159,7 @@ def api_handler(credentials_dict, aiml_file, update):
     user_key = credentials_dict['user_key']
     app_id = credentials_dict['app_id']
     botname = credentials_dict['botname']
-    host = 'demobots.pandorabots.com'
+    host = 'aiaas.pandorabots.com'
     if not update:
         result = api.create_bot(user_key,app_id,host,botname)
         if result != botname + ' has been created!':
